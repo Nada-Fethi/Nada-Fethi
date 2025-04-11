@@ -1,19 +1,11 @@
 ## Hi there, I'm Nada Fethi
+## About Me:
 
 <p align="right">
 <img src="https://i.pinimg.com/736x/22/89/ef/2289ef379679c2de8964a42053c172e6.jpg" alt="Alt Text" width="200">
 </p>
 
-## About Me:
-<br><br><br><p align="center"><br> <h1 align="center">Hi there 👋, I'm Nada Fethi</h1>
 
-<p align="center">
-  <img src="https://i.pinimg.com/736x/22/89/ef/2289ef379679c2de8964a42053c172e6.jpg" alt="Nada Fethi" width="200" />
-</p>
-
-<p align="center">
-  <em>✨ Passionate Full-Stack Developer | UI/UX Enthusiast | Future Data Wizard ✨</em>
-</p>
 
 ---
 
@@ -54,14 +46,6 @@
 
 ---
 
-## 🌍 Languages
-
-- 🇬🇧 English – Fluent  
-- 🇫🇷 French – Fluent  
-- 🇲🇦 Arabic – Native
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -79,23 +63,6 @@
 
 ---
 
-## ✨ Featured Projects
-
-- 🚀 [**My Portfolio Website**](#)  
-- 🛒 [**MERN E-Commerce App**](#)  
-- 📊 [**Admin Dashboard**](#)  
-- 📚 [**Library System (PHP + MySQL)**](#)
-
----
-
-## 📬 Contact Me
-
-- 📧 Email: nadafethi766@gmail.com  
-- 🌐 Portfolio: *(Coming soon)*  
-- 💼 LinkedIn: *(Add your LinkedIn)*  
-- 💻 GitHub: [NadaFethi](https://github.com/NadaFethi)
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&width=435&lines=Creative+Frontend+Developer;Backend+with+Passion+for+Performance;Machine+Learning+Explorer;Team+Player+%7C+Lifelong+Learner" />

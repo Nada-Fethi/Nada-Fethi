@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me:
 
-- 🔧 Full-Stack Developer (MERN & Symfony)  
+- 🔧 Software Engineer | Full-stack Developer 
 - 💡 Passionate about building beautiful and functional web & mobile apps  
 - 🌱 Currently diving deeper into Machine Learning & Data Analysis  
 - 📈 Always learning and evolving
